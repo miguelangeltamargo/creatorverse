@@ -40,8 +40,8 @@ The following **additional** features are implemented:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented required features:
-
-<img src='https://imgur.com/iUCmEAT' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<gif src='https://imgur.com/a/bshoxNH' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![Demo-ezgif com-resize](https://github.com/user-attachments/assets/293fb1a6-49cb-42ec-be1b-f4f5a6172e9a)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap:
