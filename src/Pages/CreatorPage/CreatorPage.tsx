@@ -4,7 +4,6 @@ import { useFetchOne } from '../../hooks/useFetchOne';
 import { useDeleteCreator } from '../../hooks/useDeleteCreator';
 import { FaLink } from "react-icons/fa";
 import { FaTrashCan, FaPenToSquare, FaInstagram, FaTwitch, FaYoutube, FaTiktok, FaTwitter, } from "react-icons/fa6";
-import Card from '../../components/Card/Card';
 import './CreatorPage.scss'
 
 const baseUrls = {

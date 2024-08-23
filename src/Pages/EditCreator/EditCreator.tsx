@@ -1,9 +1,8 @@
-import React, { useEffect, useState } from 'react'
+import { useEffect, useState } from 'react'
 import { useFetchOne } from '../../hooks/useFetchOne'
 import { useNavigate } from 'react-router-dom'
 import '../AddCreator/AddCreator.scss'
-import { FaTrashCan, FaRegPenToSquare, FaInstagram, FaTwitch, FaYoutube, FaTiktok, FaTwitter } from "react-icons/fa6";
-import { FaLink } from "react-icons/fa";
+import { FaRegPenToSquare } from "react-icons/fa6";
 import { useUpdate } from '../../hooks/useUpdate';
 import Card from '../../components/Card/Card';
 

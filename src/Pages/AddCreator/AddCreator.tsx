@@ -68,7 +68,7 @@ const AddCreator = () => {
     navigate("/dashboard")
   }
 
-  function navigateToCreator(name: string, id: string): void {
+  function navigateToCreator(): void {
     throw new Error('Function not implemented.');
   }
 

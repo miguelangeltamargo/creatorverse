@@ -1,8 +1,6 @@
-import React from 'react'
 
-interface Props {}
 
-const NotFound = (props: Props) => {
+const NotFound = () => {
   return (
     <div>
       <h1>404 DUDE...</h1>
