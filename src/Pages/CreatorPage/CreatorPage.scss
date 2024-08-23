@@ -1,0 +1,86 @@
+html, body {
+  height: 100%; /* Ensure the body and HTML fill the viewport */
+  margin: 0; /* Remove default margin */
+}
+
+.creatorpage {
+  color: white;
+    display: flex;
+    width: 100vw;
+    height: 70vh;
+    margin-top: 20vh;
+    // font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+
+  }
+
+
+.section {
+  flex: 1;
+  box-sizing: border-box;
+  // text-align: center;
+  /* Ensure each section stretches to fill the container's height */
+  display: flex;
+  align-items: center; /* Center content vertically */
+  justify-content: center; /* Center content horizontally */
+}
+
+.section-1 {
+  flex-direction: column;
+  flex: 5;
+  font-size:20px;
+  border-radius: 20px;
+  box-shadow: 0px 8px 60px -10px rgba(0, 0, 0, 0.8);
+  background: #00000075;
+  margin: -5vh 0vh 3vh 3vh;
+  max-width: 50vh;
+}
+.intro{
+  background: none;
+  text-justify: left;
+  flex-direction: row;
+  margin: 10vh 0vh 0vh 0vh;
+  padding: 0px 0px 0px 0px;
+  border-radius: none;
+  box-shadow: none;
+  box-shadow: none;
+}
+.descript {
+  background: none;
+  justify-content: center;
+  margin: 0vh 10px 30vh 20px;
+  // padding: 1vh 5rem 0vh 0vh;
+  border-radius: none;
+  box-shadow: none;
+  box-shadow: none;
+}
+
+.section-2 {
+  flex: 2;
+  flex-direction: column;
+  height: auto;
+  font-size: 40px;
+    margin: 5vh 0vh 25vh 5vh;
+    // max-height: 100vh
+}
+
+.details {
+  flex-direction: column;
+  border-radius: 20px;
+  box-shadow: 10px;
+  box-shadow: 0px 8px 60px -10px rgba(0, 0, 0, 0.8);
+  background: #00000075;
+  border-radius: 20px;
+  padding-left: 5rem;
+  padding-right: 5rem;
+  margin: 40vh 0vh 25vh 0vh;
+}
+
+.section-3 {
+  height: fit-content;
+  font-size: 25px;
+  border-radius: 20px;
+  margin: 23vh 5vh 0vh 5vh;
+  padding: 0px 0px 5px 0px;  box-shadow: 0px 8px 60px -10px rgba(0, 0, 0, 0.8);
+  background: #00000075;
+}
