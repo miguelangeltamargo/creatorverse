@@ -1,4 +1,4 @@
-# creatorverse
+# Creatorverse
 Codepath Web-Development Advanced Prework
 
 
@@ -57,7 +57,7 @@ Describe any challenges encountered while building the app or any additional con
 
 ## License
 
-Copyright [2024] Miguelangel Tamargo]
+Copyright [2024] Miguelangel Tamargo
 
 Licensed under the Apache License, Version 2.0 (the "License"); you may not use this file except in compliance with the License. You may obtain a copy of the License at
 
