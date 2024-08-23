@@ -49,7 +49,6 @@ const EmblaCarousel: React.FC<PropType> = (props) => {
                   id={creator.id} 
                   name={creator.name}
                   imageURL={creator.imageURL}
-                  description={creator.description}
                   youtube={creator.youtube || ''}
                   instagram={creator.instagram || ''}
                   twitter={creator.twitter || ''}

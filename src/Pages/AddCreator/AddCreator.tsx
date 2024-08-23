@@ -165,7 +165,6 @@ const AddCreator = () => {
             id={int8}
             name={name}
             imageURL={imageURL}
-            description={description}
             youtube={youtube || ''}
             instagram={instagram || ''}
             twitter={twitter || ''}

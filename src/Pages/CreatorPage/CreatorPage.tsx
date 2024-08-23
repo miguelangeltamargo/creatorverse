@@ -133,31 +133,6 @@ const CreatorPage: React.FC = () => {
           </a>)}
         </div>
       </div>
-
-      {/* <div className='lef'>
-      </div> */}
-      {/* <div className='right-side'>
-          <h1> What I Do...</h1>
-          {creator.description}
-          </div> */}
-      {/* <div className='card-job'>
-        
-          <Card
-            key={creator.id instanceof Int8Array ? creator.id.join('') : creator.id}
-            id={creator.id}
-            name={creator.name}
-            imageURL={creator.imageURL}
-            description={creator.description}
-            youtube={creator.youtube || ''}
-            instagram={creator.instagram || ''}
-            twitter={creator.twitter || ''}
-            twitch={creator.twitch || ''}
-            tiktok={creator.tiktok || ''}
-            website={creator.website || ''}
-            navigateToCreator={editNav}
-            onUse={() => setRefresh(true)}
-            />
-            </div> */}
     </div>
   );
 };

@@ -151,7 +151,6 @@ const EditCreator = () => {
             id={creator.id}
             name={name}
             imageURL={imageURL}
-            description={description}
             youtube={youtube || ''}
             instagram={instagram || ''}
             twitter={twitter || ''}

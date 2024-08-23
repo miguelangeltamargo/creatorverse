@@ -7,7 +7,6 @@ import { useDeleteCreator } from '../../hooks/useDeleteCreator';
 interface Props {
     id: Int8Array;
     name: string;
-    description: string;
     imageURL: string;
     youtube: string;
     instagram: string;
@@ -27,7 +26,7 @@ const baseUrls = {
     // website: 'https://'
 }
 
-const Card: React.FC<Props> = ({ id, name, imageURL, description, youtube, instagram, twitter, twitch, tiktok, website, navigateToCreator, onUse }: Props): JSX.Element => {
+const Card: React.FC<Props> = ({ id, name, imageURL, youtube, instagram, twitter, twitch, tiktok, website, navigateToCreator, onUse }: Props): JSX.Element => {
     const navigate = useNavigate()
     let isForm = false
     // if (id.length === 0) {
