@@ -8,6 +8,8 @@ Submitted by: **Miguel Angel Tamargo**
 
 About this web app: **Creatorverse allows users to maintain a compiled list of all their favorite creators and keeps a list of all their social media links easy for you to find.**
 
+Can be accessed : https://creatorverse-one.vercel.app/
+
 Time spent: **36** hours
 
 ## Required Features
@@ -53,7 +55,11 @@ https://github.com/justinfrankel/licecap
 
 ## Notes
 
-Describe any challenges encountered while building the app or any additional context you'd like to add.
+### Project Challenges and Learnings
+
+During this React project, I encountered several significant challenges. **State management** across components required careful synchronization to ensure smooth performance. I utilized the `useCallback` hook to optimize API call functions, reducing unnecessary re-renders and improving efficiency. Learning **TypeScript** for the first time was a crucial experience, enhancing my understanding of type safety and code reliability through accurate type definitions.
+
+Additionally, I tackled **styling issues** and integrated the Embla Carousel library. This involved resolving CSS conflicts and ensuring the carousel’s functionality aligned with dynamic card components. Merging the card creation feature with the carousel presented its own set of challenges, requiring seamless integration for a cohesive user experience. These tasks highlighted my ability to manage complex state, optimize performance, and effectively handle interactive components and styling in a React application.
 
 ## License
 
