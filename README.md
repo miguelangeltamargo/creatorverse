@@ -8,7 +8,7 @@ Submitted by: **Miguel Angel Tamargo**
 
 About this web app: **Creatorverse allows users to maintain a compiled list of all their favorite creators and keeps a list of all their social media links easy for you to find.**
 
-Can be accessed : https://creatorverse-one.vercel.app/
+Can be accessed: https://creatorverse-one.vercel.app/
 
 Time spent: **36** hours
 
